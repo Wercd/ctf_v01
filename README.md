@@ -4,15 +4,11 @@ Vu1n
 
 使用说明
 
-克隆项目：
+克隆项目：git clone https://github.com/Wercd/ctf_v01.git
 
-git clone https://github.com/Wercd/ctf_v01.git
+进入环境：cd ctf_v01
 
-cd ctf_v01
-
-启动靶场环境（以 docker-compose 为例）：
-
-docker-compose up -d
+启动靶场环境（以 docker-compose 为例）：docker-compose up -d
 
 浏览器访问题目页面，按顺序挑战靶题。
 
