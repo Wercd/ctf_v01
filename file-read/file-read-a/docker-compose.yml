@@ -1,0 +1,7 @@
+version: '1.0'
+
+services:
+  web:
+    image: crpi-a0hetlmda29o2knm.cn-hangzhou.personal.cr.aliyuncs.com/aecvt/vu1n_web-file-read-a:latest
+    ports:
+      - 80:80
