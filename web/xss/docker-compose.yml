@@ -1,0 +1,7 @@
+version: "1.0"
+
+services:
+  xss:
+    image: crpi-a0hetlmda29o2knm.cn-hangzhou.personal.cr.aliyuncs.com/aecvt/vu1n-web-xss-a:latest
+    ports:
+      - 3000:3000
