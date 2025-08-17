@@ -1,0 +1,6 @@
+version: '1.0'
+services:
+  upload:
+    image: crpi-a0hetlmda29o2knm.cn-hangzhou.personal.cr.aliyuncs.com/aecvt/vu1n-web-sql-b:latest
+    ports:
+      - 80:80
