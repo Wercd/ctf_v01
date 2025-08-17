@@ -1,0 +1,7 @@
+version: "1.0"
+
+services:
+  converter:
+    image: crpi-a0hetlmda29o2knm.cn-hangzhou.personal.cr.aliyuncs.com/aecvt/vu1n_web-command:latest
+    ports:
+      - 80:80
